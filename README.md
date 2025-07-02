@@ -5,6 +5,8 @@ A new Flutter application.
 ## update it to latest Flutter and dart version
  and check for compatible kotlin version too
 
+## Add New State Management Like bloc , provider ,riverpod
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
