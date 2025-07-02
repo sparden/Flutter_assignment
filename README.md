@@ -7,7 +7,7 @@ A new Flutter application.
 
 ## Add New State Management Like bloc , provider ,riverpod
 
-## Add crashlytics
+## Add crashlytics  
 
 ## Getting Started
 
