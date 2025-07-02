@@ -3,6 +3,7 @@
 A new Flutter application.
 
 ## update it to latest Flutter and dart version
+ and check for compatible kotlin version too
 
 ## Getting Started
 
