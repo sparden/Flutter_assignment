@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+## update it to latest Flutter and dart version
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
