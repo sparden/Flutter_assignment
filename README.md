@@ -7,6 +7,8 @@ A new Flutter application.
 
 ## Add New State Management Like bloc , provider ,riverpod
 
+## Add crashlytics
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
